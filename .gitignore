@@ -1,0 +1,74 @@
+# Dependency directories
+/node_modules
+
+# Build files
+/build
+/dist
+
+# Environment files
+/.env*
+
+# User-specific files
+/.idea
+/.DS_Store
+/*.log
+
+# Compiled files
+*.log
+*.tsbuildinfo
+*.db
+*.sqlite
+*.sqlite3
+*.pdb
+*.class
+*.o
+*.ko
+*.obj
+*.elf
+*.exe
+*.dll
+*.so
+*.dylib
+*.ncb
+*.suo
+*.pdb
+*.idb
+*.opendb
+*.sqlite3
+*.sqlite
+*.sdf
+*.app
+*.exp
+*.lib
+*.a
+*.out
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor files
+.idea/
+.vscode/
+
+# Test coverage
+/coverage
+
+# Transpiled output
+/lib
+
+# Next.js
+/.next/
+/out/
+
+# Serverless
+/.serverless/
+
+# Storybook
+/.storybook
+
+# Yarn
+/yarn-error.log
+.pnp.*
+*.pnp.*
