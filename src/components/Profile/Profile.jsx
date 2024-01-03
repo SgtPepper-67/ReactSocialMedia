@@ -1,9 +1,8 @@
-import s from "./Profile.module.css"
 import MyPosts from "./MyPosts/MyPosts";
 
 const Profile = () => {
   return (
-    <main className={s.content}>
+    <main>
       <div>
         <img height="400px" src="https://media.sproutsocial.com/uploads/2022/06/profile-picture.jpeg" alt=""></img>
       </div>

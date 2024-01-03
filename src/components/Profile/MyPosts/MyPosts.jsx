@@ -10,8 +10,8 @@ function MyPosts() {
         <button>Add Button</button>
       </div>
       <div className={s.posts}>
-        <Post/>
-        <Post/>
+        <Post message="Hi, how are you?"/>
+        <Post message="What are you doing here"/>
       </div>
     </div>
   );
